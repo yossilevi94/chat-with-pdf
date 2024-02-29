@@ -12,8 +12,8 @@ This project provides a simple and user-friendly chatbot capable of answering qu
 
 ## Installation:
 1. Clone the repository:
-```git clone https://github.com/yourusername/chat-with-pdf-doc.git```
-```cd chat-with-pdf-doc```
+```git clone https://github.com/yossilevi94/chat-with-pdf.git```
+```cd chat-with-pdf```
 
 2. Install dependencies:
 ```pip install -r requirements.txt```
